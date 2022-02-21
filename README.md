@@ -2,9 +2,9 @@ HƯỚNG DẪN CÀI ĐẶT VÀ SỬ DỤNG CRAWLING DATA TỪ FACEBOOK
 
 **CÀI ĐẶT**
 
-B1: Pull Repositories Crawling-data
+Bước 1: Pull Repositories Crawling-data
 
-B2: Cài đặt môi trường lập trình python (Nếu cài python rồi thì bỏ qua bước này)
+Bước 2: Cài đặt môi trường lập trình python (Nếu cài python rồi thì bỏ qua bước này)
 1. Cài Python trên window
   - Bạn hãy vào trang https://www.python.org/downloads/ để download phiên bản Python mà bạn muốn cài. Các bạn sử dụng Python phiên bản mới nhất.
 2. Cài Python trên linux
@@ -16,7 +16,7 @@ B2: Cài đặt môi trường lập trình python (Nếu cài python rồi thì
 - Sau khi cài xong, để kiểm tra xem trong máy mình đã cài thành công chưa thực hiện lệnh:
       python -V
  
- B3: Cài đặt môi trường sử dụng Selenium
+ Bước 3: Cài đặt môi trường sử dụng Selenium
 - Selenium là một trình duyệt cho phép bạn thực hiện các công việc tự động hóa ở trên đó. Hầu hết các thao tác trên trình duyệt mà bạn làm được thì Selenium đều có thể làm được và cho phép bạn dùng code để điều khiển trình duyệt này.
 Đây là trang chủ của Selenium: https://www.seleniumhq.org/
 - Cài đặt Selenium với Python
@@ -48,6 +48,7 @@ Hoàn thành xong toàn bộ việc cài đặt
 
 **SỬ DỤNG**
 Bật chương code và chạy thư file crawler.py bằng lệch: 
+
   **python crawler.py**
 
 
