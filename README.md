@@ -29,17 +29,22 @@ Các bạn tải WebDriver với trình duyệt bạn hay sử dụng, ở đây
   B3: Tạo một thư mục trong ổ đĩa bất kỳ đặt tên: ChromeDriver -> Paste file chromedrive.exe vào trong thư mục -> Copy đường đường dẫn (1)  file vừa được paste vào 
   B4: Cài property trong Environment Variable
     + Tìm kiếm mục và chọn
+    
       ![image](https://user-images.githubusercontent.com/58686853/154920441-2385f35c-07f8-4414-9129-67176a69844b.png)
     + Tìm và chọn:
+    
       ![image](https://user-images.githubusercontent.com/58686853/154920724-ee33737c-bd2c-4422-aa4d-1ca68db0698e.png)
     + Tìm và chọn:
+    
       ![image](https://user-images.githubusercontent.com/58686853/154921211-002e829f-0b81-4c97-86f3-6820e214fab1.png)
     + Tìm và chọn:
+    
       ![image](https://user-images.githubusercontent.com/58686853/154921427-c4845518-df11-4b33-9f1d-ff6f1b7fe4f4.png)
     + Paste đường dẫn (1) vào trong và chọn Ok:
+    
       ![image](https://user-images.githubusercontent.com/58686853/154921955-79b72bde-7af9-40eb-8496-ec5ba3e23809.png)
 
-Hoàn thành xong toàn bộ việc cài đặt_
+Hoàn thành xong toàn bộ việc cài đặt
 
 **SỬ DỤNG**
 Bật chương code và chạy thư file crawler.py bằng lệch: 
