@@ -9,11 +9,17 @@ Bước 2: Cài đặt môi trường lập trình python (Nếu cài python r�
   - Bạn hãy vào trang https://www.python.org/downloads/ để download phiên bản Python mà bạn muốn cài. Các bạn sử dụng Python phiên bản mới nhất.
 2. Cài Python trên linux
   -  Thực hiện theo các thứ tự sau:
+ 
       sudo apt-get update
+      
       sudo apt-get -y upgrade
+      
       sudo apt-get install -y python3-pip
+      
       sudo apt-get install build-essential libssl-dev libffi-dev python-dev
+      
 - Sau khi cài xong, để kiểm tra xem trong máy mình đã cài thành công chưa thực hiện lệnh:
+
       python -V
  
  Bước 3: Cài đặt môi trường sử dụng Selenium
