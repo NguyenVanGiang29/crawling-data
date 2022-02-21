@@ -10,13 +10,13 @@ Bước 2: Cài đặt môi trường lập trình python (Nếu cài python r�
 2. Cài Python trên linux
   -  Thực hiện theo các thứ tự sau:
  
-      sudo apt-get update
+      **sudo apt-get update
       
       sudo apt-get -y upgrade
       
       sudo apt-get install -y python3-pip
       
-      sudo apt-get install build-essential libssl-dev libffi-dev python-dev
+      sudo apt-get install build-essential libssl-dev libffi-dev python-dev**
       
 - Sau khi cài xong, để kiểm tra xem trong máy mình đã cài thành công chưa thực hiện lệnh:
 
